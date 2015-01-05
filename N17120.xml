@@ -105,20 +105,20 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:022100_0000_0FB6E55E5526B7F8"/>
-            <pb facs="tcp:022100_0001_0FB6E5602CEBC568"/>
+            <pb facs="unknown:022100_0000_0FB6E55E5526B7F8"/>
+            <pb facs="unknown:022100_0001_0FB6E5602CEBC568"/>
             <p>A RHAPSODY. A POEM.</p>
             <p>
                <hi>NEW-YORK:</hi> PRINTED BY HODGE, ALLEN, AND CAMPBELL. M, DCC, LXXXIX.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:022100_0002_0FB6E57ADC1BFFC8"/>
+            <pb facs="unknown:022100_0002_0FB6E57ADC1BFFC8"/>
             <p>THE following POEM is ſelected from a variety of ſcraps, which were compoſed in the fervour of imagination, as the different ſubjects preſented them<g ref="char:EOLhyphen"/>ſelves to the Author. He has endeavoured, as much as poſſible, to arrange them in ſome dependence on each other; but a Work of this nature will neceſſarily be imperfect and irregular. The Author has not the pre<g ref="char:EOLhyphen"/>ſumption to ſuppoſe, that an inſignificant Poem, ſo en<g ref="char:EOLhyphen"/>tirely deſtitute of incident, can ever be an object of ge<g ref="char:EOLhyphen"/>neral regard: To the few, however, who are finely ſenſible of the beauties of nature, who are pleaſed with ſomething more than the muſic of poetry, he dedicates his performance; and to thoſe only he would recom<g ref="char:EOLhyphen"/>mend the peruſal of it.</p>
          </div>
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:022100_0003_0FB6E57C51E3AA88"/>
+            <pb facs="unknown:022100_0003_0FB6E57C51E3AA88"/>
             <head>A RHAPSODY.</head>
             <div type="month">
                <head>OCTOBER.</head>
@@ -151,7 +151,7 @@
                   <l>With animation, in the pathleſs field</l>
                   <l>I ſtroll delighted; or, above the vale,</l>
                   <l>
-                     <pb n="4" facs="tcp:022100_0004_0FB6E586E24B4818"/>
+                     <pb n="4" facs="unknown:022100_0004_0FB6E586E24B4818"/>
 Pauſe on the riſing hill to dwell at eaſe</l>
                   <l>On the rich profuſion of its increaſe,</l>
                   <l>Where, in extended rows and ripening</l>
@@ -183,7 +183,7 @@ Pauſe on the riſing hill to dwell at eaſe</l>
                   <l>Save where, apart, and in ſtately ſilence,</l>
                   <l>The ſapleſs oak with majeſty exalts</l>
                   <l>
-                     <pb n="5" facs="tcp:022100_0005_0FB6E58E2CA9EA08"/>
+                     <pb n="5" facs="unknown:022100_0005_0FB6E58E2CA9EA08"/>
 Its venerable limbs, leafleſs with years</l>
                   <l>And with'ring in the laſt decay—or ſave</l>
                   <l>Where, in unfrequent interſtice, amid</l>
@@ -214,7 +214,7 @@ Its venerable limbs, leafleſs with years</l>
                   <l>The ſmiles of partial fortune, or the rights</l>
                   <l>Of affluence to enjoy thy bounties—</l>
                   <l>
-                     <pb n="6" facs="tcp:022100_0006_0FB6E59020DC27B8"/>
+                     <pb n="6" facs="unknown:022100_0006_0FB6E59020DC27B8"/>
 They're the common heritage of us all,</l>
                   <l>In thee the outcaſt of ſociety</l>
                   <l>Will find a refuge from his miſeries,</l>
@@ -247,7 +247,7 @@ They're the common heritage of us all,</l>
                   <l>Riſe, with conviction, riſe in its defence</l>
                   <l>And pluck this ſavage inſtinct from our breaſts.</l>
                   <l>
-                     <pb n="7" facs="tcp:022100_0007_0FB6E5914CB98D98"/>
+                     <pb n="7" facs="unknown:022100_0007_0FB6E5914CB98D98"/>
 But, from ſuch wanton cruelties averſe,</l>
                   <l>Still let me linger on the happy ſmiles</l>
                   <l>Of autumn all benign, when tranquil moſt</l>
@@ -279,7 +279,7 @@ But, from ſuch wanton cruelties averſe,</l>
                   <l>Till the whole earth's o'erwhelm'd and floats immenſe.</l>
                   <l>How chang'd the proſpect, where I lately dwelt</l>
                   <l>
-                     <pb n="8" facs="tcp:022100_0008_0FB6E598AF00BAE8"/>
+                     <pb n="8" facs="unknown:022100_0008_0FB6E598AF00BAE8"/>
 With glowing admiration, ſeen dimly</l>
                   <l>Thro' the fleeting rain! the valleys hidden,</l>
                   <l>And the tall hills grown deſolate and dun,</l>
@@ -312,7 +312,7 @@ With glowing admiration, ſeen dimly</l>
                   <l>Now let me climb ſome mountains ſtormy cliffs</l>
                   <l>Sublime and black as the diſorder'd face</l>
                   <l>
-                     <pb n="9" facs="tcp:022100_0009_0FB6E59FACF9F250"/>
+                     <pb n="9" facs="unknown:022100_0009_0FB6E59FACF9F250"/>
 Of heav'n, envelop'd in an eddying cloud</l>
                   <l>Of foliage, torn by diſtracting whirlwinds</l>
                   <l>From the foreſt: and, while all nature round</l>
@@ -343,7 +343,7 @@ Of heav'n, envelop'd in an eddying cloud</l>
                   <l>E'en in the faireſt moments of this life</l>
                   <l>Thou can'ſt inſpire a cheerfulneſs of ſoul</l>
                   <l>
-                     <pb n="10" facs="tcp:022100_0010_0FB6E5A1122D4260"/>
+                     <pb n="10" facs="unknown:022100_0010_0FB6E5A1122D4260"/>
 And give a luſtre to my inmoſt joys.</l>
                   <l>Or, when emboſom'd in profoundeſt grief,</l>
                   <l>One gracious ray from thee can animate</l>
@@ -378,7 +378,7 @@ And give a luſtre to my inmoſt joys.</l>
                   <l>That late with rapture tun'd her ſong, amid</l>
                   <l>The circling pleaſures and the ſplendid haunts</l>
                   <l>
-                     <pb n="11" facs="tcp:022100_0011_0FB6E5A9AC479240"/>
+                     <pb n="11" facs="unknown:022100_0011_0FB6E5A9AC479240"/>
 Of diſſipation, may enjoy a theme</l>
                   <l>More animate—But ſhe diſdains to ſing</l>
                   <l>With <hi>praiſe</hi> unfelt, emotions not her own.</l>
@@ -410,7 +410,7 @@ Of diſſipation, may enjoy a theme</l>
                   <l>And the cloy'd ſtomach ſickens at the food.</l>
                   <l>—They riſe not to reſtore their weaken'd frame</l>
                   <l>
-                     <pb n="12" facs="tcp:022100_0012_0FB6E5ABCD0A9F80"/>
+                     <pb n="12" facs="unknown:022100_0012_0FB6E5ABCD0A9F80"/>
 And by the ſtrength'ning powers of exerciſe</l>
                   <l>Give a robuſt alacrity to life,—</l>
                   <l>But, midſt a round of vacant viſitants,</l>
@@ -440,7 +440,7 @@ And by the ſtrength'ning powers of exerciſe</l>
                   <l>The powder'd hoſt, who with reflection grave</l>
                   <l>A while confer; then in due form array'd</l>
                   <l>
-                     <pb n="13" facs="tcp:022100_0013_0FB6E5AD0EEA0610"/>
+                     <pb n="13" facs="unknown:022100_0013_0FB6E5AD0EEA0610"/>
                      <gap reason="illegible: indecipherable" extent="1 letter">
                         <desc>•</desc>
                      </gap>vade the ſmiling board.—</l>
@@ -488,7 +488,7 @@ And by the ſtrength'ning powers of exerciſe</l>
                   <l>With liftleſs inclination, till by fits</l>
                   <l>Reſign'd to brooding impotence, it droops</l>
                   <l>
-                     <pb n="14" facs="tcp:022100_0014_0FB6E5AE96EF6620"/>
+                     <pb n="14" facs="unknown:022100_0014_0FB6E5AE96EF6620"/>
 A ſullen, ſenſeleſs, pitiable load.</l>
                   <l>—Bluſh, ye deluded men, who in an age</l>
                   <l>So boaſted and ſo wiſe as this, delight</l>
@@ -518,7 +518,7 @@ A ſullen, ſenſeleſs, pitiable load.</l>
                   <l>With pitying conſolation dwells,</l>
                   <l>Suffuſes a mild ſun-ſhine o'er the breaſt,</l>
                   <l>
-                     <pb n="15" facs="tcp:022100_0015_0FB6E5C9B99C8518"/>
+                     <pb n="15" facs="unknown:022100_0015_0FB6E5C9B99C8518"/>
                      <gap reason="illegible: indecipherable" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>, in the tranquil labour of the day,</l>
@@ -621,7 +621,7 @@ A ſullen, ſenſeleſs, pitiable load.</l>
                      </gap> an eternal reſt; and in the deep</l>
                   <l>Stillneſs of its approach, the frequent knell</l>
                   <l>
-                     <pb n="16" facs="tcp:022100_0016_0FB6E5CAC313A0D0"/>
+                     <pb n="16" facs="unknown:022100_0016_0FB6E5CAC313A0D0"/>
 Burſting from the ſounding belfry, vibrates</l>
                   <l>On my thrill'd ear at ſolemn intervals—</l>
                   <l>Ah me! it tolls Amelia's loſs—the ſound</l>
@@ -650,7 +650,7 @@ Burſting from the ſounding belfry, vibrates</l>
                   <l>Above the fears of death—from the glories</l>
                   <l>Of thy example, let me catch one ray</l>
                   <l>
-                     <pb n="17" facs="tcp:022100_0017_0FB6E5CBD886EE40"/>
+                     <pb n="17" facs="unknown:022100_0017_0FB6E5CBD886EE40"/>
                      <gap reason="illegible: indecipherable" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> Grecian wiſdom, and, at a diſtance,</l>
@@ -709,7 +709,7 @@ Burſting from the ſounding belfry, vibrates</l>
                   <l>Oh! that th' auſpicious genius of this age</l>
                   <l>Would give a ſecond Homer to the world.</l>
                   <l>
-                     <pb n="18" facs="tcp:022100_0018_0FB6E5CD5EF96D98"/>
+                     <pb n="18" facs="unknown:022100_0018_0FB6E5CD5EF96D98"/>
 Where verſe, diſdaining the ignoble tracks,</l>
                   <l>The futile, hackney'd themes of poetry,</l>
                   <l>Perſuaſive—irreſiſtable, would raiſe</l>
@@ -740,7 +740,7 @@ Where verſe, diſdaining the ignoble tracks,</l>
                   <l>Its blooming courſe behind the eaſtern clouds.</l>
                   <l>And oft to ſhun the vacant tediouſneſs</l>
                   <l>
-                     <pb n="19" facs="tcp:022100_0019_0FB6E5D023379830"/>
+                     <pb n="19" facs="unknown:022100_0019_0FB6E5D023379830"/>
 Of ev'ning, let me recline in converſe ſweet</l>
                   <l>
                      <gap reason="illegible: indecipherable" extent="1 word">
